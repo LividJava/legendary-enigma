@@ -49,5 +49,5 @@ jobs:
         publish_branch: pages
         publish_dir: docs/
         force_orphan: true
-        #cname: example.com
+        cname: wiki.lividjava.xyz
 
