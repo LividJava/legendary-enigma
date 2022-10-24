@@ -2,18 +2,18 @@
 id: 2aui13hxma3m5os3ieccoq2
 title: Huxley
 desc: ''
-updated: 1666433867014
+updated: 1666602919918
 created: 1666433867014
 ---
-![huxley.pnd](assets/huxley.png){width: 150px, float: right, margin: 20px, border: 2px solid}
+![](assets/raichu.png){width: 150px, float: right, margin: 20px, border: 2px solid}
 Huxley is a Raichu. A former adventurer, dungeoneer, and RTA Board member. In his travels he would team up with Ako to form their rescue team, before eventually disbanding them as they were seen as defunct.
 
 ## History
 Huxley is one of few Humans that reside in the Wondrous world, suffering from amnesia and unable to remember his life as a human, he opted to remain a pokémon as his memories remained to avail him. After waking up as a Human, He was found by [[Ako|people.ako]] who would eventually guide him initally to a forgotten settlement which would eventually grow into the town known as [[Asterim|world.locations.Asterim]].
 
-Huxley and Ako would go on to found the Rescue Team Novus. Helping out various people in need, be that saving them from the ever shifting dungeons, or helping with menial tasks.
+Huxley and Ako would go on to found the Rescue Team Novus. Helping out various people in need, be that saving them from the ever shifting dungeons, or helping with menial tasks. ^k7mwuwvspezc
 
-He and Ako would split at some point to start the foundations of Asterim. While Ako would remain behind to manage the town as a surrogate mayor while he was away. Huxley and his team would go on to best several legendaries that threatned the land.
+He and Ako would split at some point to start the foundations of Asterim. While Ako would remain behind to manage the town as a surrogate mayor while he was away. Huxley and his team would go on to best several legendaries that threatned the land. ^y065g0plpzvf
 
 Eventually he would discover the existance of the [[Fracture|world-fracture]], attempting to understand its existance and eventually sealing it away.
 
