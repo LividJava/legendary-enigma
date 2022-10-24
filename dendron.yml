@@ -82,7 +82,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     logoPath: notes/assets/pmdlogo.png
-    theme: dark
+    theme: custom
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
@@ -93,10 +93,10 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
+        title: PMD Wiki thing
         description: Personal Knowledge Space
     github:
-        enableEditLink: true
+        enableEditLink: false
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
