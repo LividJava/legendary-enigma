@@ -1,0 +1,53 @@
+{
+  "folders": [
+    {
+      "path": "notes",
+      "name": "pmdwiki"
+    }
+  ],
+  "settings": {
+    "dendron.rootDir": ".",
+    "files.autoSave": "onFocusChange",
+    "pasteImage.path": "${currentFileDir}/assets/images",
+    "pasteImage.prefix": "/",
+    "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+    "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+    "editor.snippetSuggestions": "inline",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggest.showSnippets": true,
+    "editor.tabCompletion": "on",
+    "dendron.enableSelfContainedVaultWorkspace": true,
+    "discord.largeImage": "Writing a world with Dendron.",
+    "discord.smallImage": "VSCopium",
+    "discord.lowerDetailsEditing": "Workspace: Campaign Wiki",
+    "explorer.decorations.badges": true,
+    "explorer.decorations.colors": true,
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "cSpell.words": [
+      "Azumarill",
+      "Azurill",
+      "Eevee",
+      "Machamp",
+      "Murkrow",
+      "Raichu",
+      "Spinda"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "dendron.dendron",
+      "dendron.dendron-paste-image",
+      "dendron.dendron-markdown-shortcuts",
+      "redhat.vscode-yaml"
+    ],
+    "unwantedRecommendations": [
+      "dendron.dendron-markdown-links",
+      "dendron.dendron-markdown-notes",
+      "dendron.dendron-markdown-preview-enhanced",
+      "shd101wyy.markdown-preview-enhanced",
+      "kortina.vscode-markdown-notes",
+      "mushan.vscode-paste-image"
+    ]
+  }
+}
