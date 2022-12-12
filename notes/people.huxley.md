@@ -2,7 +2,7 @@
 id: 2aui13hxma3m5os3ieccoq2
 title: Huxley
 desc: ''
-updated: 1666602919918
+updated: 1670801916604
 created: 1666433867014
 ---
 ![](assets/raichu.png){width: 150px, float: right, margin: 20px, border: 2px solid}
@@ -13,9 +13,9 @@ Huxley is one of few Humans that reside in the Wondrous world, suffering from am
 
 Huxley and Ako would go on to found the Rescue Team Novus. Helping out various people in need, be that saving them from the ever shifting dungeons, or helping with menial tasks. ^k7mwuwvspezc
 
-He and Ako would split at some point to start the foundations of Asterim. While Ako would remain behind to manage the town as a surrogate mayor while he was away. Huxley and his team would go on to best several legendaries that threatned the land. ^y065g0plpzvf
+He and Ako would split at some point to start the foundations of Asterim. While Ako would remain behind to manage the town as a surrogate mayor while he was away. Huxley and his team would go on to best several legendaries that threatened the land. ^y065g0plpzvf
 
-Eventually he would discover the existance of the [[Fracture|world-fracture]], attempting to understand its existance and eventually sealing it away.
+Eventually he would discover the existence of the [[Fracture|world-fracture]], attempting to understand its existence and eventually sealing it away.
 
 His current whereabouts are unknown.
 

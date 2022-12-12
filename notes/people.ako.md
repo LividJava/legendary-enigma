@@ -2,7 +2,7 @@
 id: mhiexw9svbjwjxj7def5buf
 title: Ako
 desc: ''
-updated: 1666606826657
+updated: 1670801944315
 created: 1666436372906
 ---
 Ako is a Spinda. A former dungeoneer and surrogate town mayor. A former member of the Rescue Team Novus, a team managed by [[Huxley|people.huxley]].
@@ -17,7 +17,7 @@ The pair would eventually found the Rescue Team Novus.
 
 While acting as a surrogate mayor for Huxley, she would help manage new shops, community projects, as well as general infrastructure for the town, seeing it as an opportunity to expand her horizons. [[The Great Tremor|great-catastrophes.tremor]] would cause her to forcibly retire as Asterim would become ruined due to a poor foundation that was never resolved. Towns members would scatter. Her at the time acquaintance [[Shelia|people.shelia]] would seek her out to see about starting a [[small camp|world.locations.shelias-camp]] to pool resources and protect one another.
 
-Eventually, some time after camp had been established. On a foraging excursion she would come across a severely injured eevee, reminding her of the other children in Asterim, she would take in who she would later know as [[Azalea|people.azalea]].
+Eventually, some time after camp had been established. On a foraging excursion she would come across a severely injured Eevee, reminding her of the other children in Asterim, she would take in who she would later know as [[Azalea|people.azalea]].
 
 She currently resides in [[Shelia's Camp|world.locations.shelias-camp]], alongside [[Shelia|people.shelia]] [[Azalea|people.azalea]] and others.
 
