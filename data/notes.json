@@ -1,0 +1,4118 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670803858542,
+      "created": 1670803858542,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "zh6cgxgxdu3u8nosydll2ik": {
+      "id": "zh6cgxgxdu3u8nosydll2ik",
+      "title": "The Wondrous World",
+      "desc": "",
+      "updated": 1666599474864,
+      "created": 1666316457940,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "7d4ec587097283e431c6b0171d591530",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world",
+          "alias": "World",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 698
+            },
+            "end": {
+              "line": 15,
+              "column": 16,
+              "offset": 713
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 4,
+              "offset": 756
+            },
+            "end": {
+              "line": 16,
+              "column": 23,
+              "offset": 775
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people",
+          "alias": "People",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 836
+            },
+            "end": {
+              "line": 18,
+              "column": 18,
+              "offset": 853
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes",
+          "alias": "The Great Catastrophes",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 1,
+              "offset": 914
+            },
+            "end": {
+              "line": 20,
+              "column": 46,
+              "offset": 959
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world-fracture",
+          "alias": "The World Fracture",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 1001
+            },
+            "end": {
+              "line": 23,
+              "column": 38,
+              "offset": 1038
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world-fracture"
+          }
+        }
+      ],
+      "anchors": {
+        "outline": {
+          "type": "header",
+          "text": "Outline",
+          "value": "outline",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "wf0akia7teumrr2uz9ahcai",
+        "mbgjs3d1copv01e81nxy0nf",
+        "s75uxhz7wr8b0mzu8my18j1",
+        "7fcovynnlt7sbqti1o0ne8m",
+        "68b3yfsvjy3nurxncttcj2g",
+        "meudvewf5oo11wq8mhf0kym"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "meudvewf5oo11wq8mhf0kym": {
+      "id": "meudvewf5oo11wq8mhf0kym",
+      "title": "Undr Öld - The Wondrous World",
+      "desc": "",
+      "updated": 1670801859357,
+      "created": 1666316786083,
+      "custom": {},
+      "fname": "world",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "43f3c2ec06e98f74bd8fab22985d177f",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations",
+          "alias": "Settlements",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 144,
+              "offset": 939
+            },
+            "end": {
+              "line": 13,
+              "column": 187,
+              "offset": 982
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations",
+            "anchorHeader": "Settlements"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.tremor",
+          "alias": "The Great Tremor",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 134,
+              "offset": 1273
+            },
+            "end": {
+              "line": 16,
+              "column": 180,
+              "offset": 1319
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.tremor"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.flood",
+          "alias": "The Great Flood",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 182,
+              "offset": 1321
+            },
+            "end": {
+              "line": 16,
+              "column": 226,
+              "offset": 1365
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.flood"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.winds",
+          "alias": "The Great Winds",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 228,
+              "offset": 1367
+            },
+            "end": {
+              "line": 16,
+              "column": 272,
+              "offset": 1411
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.winds"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.eruption",
+          "alias": "The Great Eruption",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 274,
+              "offset": 1413
+            },
+            "end": {
+              "line": 16,
+              "column": 324,
+              "offset": 1463
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.eruption"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.wave",
+          "alias": "The Great Wave",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 336,
+              "offset": 1475
+            },
+            "end": {
+              "line": 16,
+              "column": 378,
+              "offset": 1517
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.wave"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 698
+            },
+            "end": {
+              "line": 15,
+              "column": 16,
+              "offset": 713
+            },
+            "indent": []
+          },
+          "value": "world"
+        }
+      ],
+      "anchors": {
+        "society": {
+          "type": "header",
+          "text": "Society",
+          "value": "society",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "great-catastrophes": {
+          "type": "header",
+          "text": "Great Catastrophes",
+          "value": "great-catastrophes",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "2s9lan55w6b9kb0909valdw"
+      ],
+      "parent": "zh6cgxgxdu3u8nosydll2ik",
+      "data": {}
+    },
+    "2s9lan55w6b9kb0909valdw": {
+      "id": "2s9lan55w6b9kb0909valdw",
+      "title": "Locations",
+      "desc": "",
+      "updated": 1666316821031,
+      "created": 1666316821031,
+      "custom": {},
+      "fname": "world.locations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "edf513af104e6cd3409314516f49deee",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations",
+            "id": "2s9lan55w6b9kb0909valdw",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.shelias-camp",
+          "alias": "Shelia's Camp",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 409
+            },
+            "end": {
+              "line": 8,
+              "column": 47,
+              "offset": 455
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.shelias-camp"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations",
+            "id": "2s9lan55w6b9kb0909valdw",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.Asterim",
+          "alias": "Asterim",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 714
+            },
+            "end": {
+              "line": 14,
+              "column": 36,
+              "offset": 749
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.Asterim"
+          }
+        },
+        {
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 144,
+              "offset": 939
+            },
+            "end": {
+              "line": 13,
+              "column": 187,
+              "offset": 982
+            },
+            "indent": []
+          },
+          "value": "world.locations"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 4,
+              "offset": 756
+            },
+            "end": {
+              "line": 16,
+              "column": 23,
+              "offset": 775
+            },
+            "indent": []
+          },
+          "value": "world.locations"
+        }
+      ],
+      "anchors": {
+        "settlements": {
+          "type": "header",
+          "text": "Settlements",
+          "value": "settlements",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "notable-settlements": {
+          "type": "header",
+          "text": "Notable Settlements",
+          "value": "notable-settlements",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "towns": {
+          "type": "header",
+          "text": "Towns",
+          "value": "towns",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "notable-towns": {
+          "type": "header",
+          "text": "Notable Towns",
+          "value": "notable-towns",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "1qv5bt0exb5d0j8bll46s25",
+        "nniyqfu2hjqy42jv8kw0abx"
+      ],
+      "parent": "meudvewf5oo11wq8mhf0kym",
+      "data": {}
+    },
+    "nniyqfu2hjqy42jv8kw0abx": {
+      "id": "nniyqfu2hjqy42jv8kw0abx",
+      "title": "Shelia's Camp",
+      "desc": "",
+      "updated": 1666432772075,
+      "created": 1666432772075,
+      "custom": {},
+      "fname": "world.locations.shelias-camp",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "5384c8c8a5e68c5f9154e03699819384",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.Asterim",
+          "alias": "Asterim",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 87,
+              "offset": 205
+            },
+            "end": {
+              "line": 4,
+              "column": 122,
+              "offset": 240
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.Asterim"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.ako",
+          "alias": "Ako",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 325
+            },
+            "end": {
+              "line": 7,
+              "column": 21,
+              "offset": 343
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.ako"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.shelia",
+          "alias": "Shelia",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 356
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 380
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.shelia"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.dendri",
+          "alias": "Dendri",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 393
+            },
+            "end": {
+              "line": 9,
+              "column": 27,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.dendri"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.azalea",
+          "alias": "Azalea",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 420
+            },
+            "end": {
+              "line": 10,
+              "column": 27,
+              "offset": 444
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.azalea"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.abbie",
+          "alias": "Abbie",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 447
+            },
+            "end": {
+              "line": 11,
+              "column": 25,
+              "offset": 469
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.abbie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.oliver",
+          "alias": "Oliver",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 472
+            },
+            "end": {
+              "line": 12,
+              "column": 27,
+              "offset": 496
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.oliver"
+          }
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 489,
+              "offset": 1389
+            },
+            "end": {
+              "line": 11,
+              "column": 532,
+              "offset": 1432
+            },
+            "indent": []
+          },
+          "value": "world.locations.shelias-camp"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 26,
+              "offset": 1750
+            },
+            "end": {
+              "line": 15,
+              "column": 72,
+              "offset": 1796
+            },
+            "indent": []
+          },
+          "value": "world.locations.shelias-camp"
+        },
+        {
+          "from": {
+            "fname": "world.locations",
+            "id": "2s9lan55w6b9kb0909valdw",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 409
+            },
+            "end": {
+              "line": 8,
+              "column": 47,
+              "offset": 455
+            },
+            "indent": []
+          },
+          "value": "world.locations.shelias-camp"
+        }
+      ],
+      "anchors": {
+        "foundation": {
+          "type": "header",
+          "text": "Foundation",
+          "value": "foundation",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "members": {
+          "type": "header",
+          "text": "Members",
+          "value": "members",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2s9lan55w6b9kb0909valdw",
+      "data": {}
+    },
+    "1qv5bt0exb5d0j8bll46s25": {
+      "id": "1qv5bt0exb5d0j8bll46s25",
+      "title": "Asterim",
+      "desc": "",
+      "updated": 1666433170620,
+      "created": 1666433170620,
+      "custom": {},
+      "fname": "world.locations.Asterim",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "2c6894e2b9c02752ab3f733381994b0e",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "value": "organizations.rescue-team-alliance",
+          "alias": "Rescue Team Alliance",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 146,
+              "offset": 145
+            },
+            "end": {
+              "line": 1,
+              "column": 205,
+              "offset": 204
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "organizations.rescue-team-alliance"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.tremor",
+          "alias": "The Great Tremor",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 21,
+              "offset": 354
+            },
+            "end": {
+              "line": 3,
+              "column": 67,
+              "offset": 400
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.tremor"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.Huxley",
+          "alias": "Huxley",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 636
+            },
+            "end": {
+              "line": 6,
+              "column": 27,
+              "offset": 660
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.Huxley"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.ako",
+          "alias": "Ako",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 698
+            },
+            "end": {
+              "line": 7,
+              "column": 21,
+              "offset": 716
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.ako"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.shelia",
+          "alias": "Shelia",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 719
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 743
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.shelia"
+          }
+        },
+        {
+          "from": {
+            "fname": "great-catastrophes.tremor",
+            "id": "fafzzrn2byyqw5ikkze2l9r",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 277
+            },
+            "end": {
+              "line": 4,
+              "column": 38,
+              "offset": 312
+            },
+            "indent": []
+          },
+          "value": "world.locations.Asterim"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 70,
+              "offset": 230
+            },
+            "end": {
+              "line": 4,
+              "column": 105,
+              "offset": 265
+            },
+            "indent": []
+          },
+          "value": "world.locations.Asterim"
+        },
+        {
+          "from": {
+            "fname": "people.huxley",
+            "id": "2aui13hxma3m5os3ieccoq2",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 379,
+              "offset": 681
+            },
+            "end": {
+              "line": 5,
+              "column": 414,
+              "offset": 716
+            },
+            "indent": []
+          },
+          "value": "world.locations.Asterim"
+        },
+        {
+          "from": {
+            "fname": "world.locations",
+            "id": "2s9lan55w6b9kb0909valdw",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 714
+            },
+            "end": {
+              "line": 14,
+              "column": 36,
+              "offset": 749
+            },
+            "indent": []
+          },
+          "value": "world.locations.Asterim"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 87,
+              "offset": 205
+            },
+            "end": {
+              "line": 4,
+              "column": 122,
+              "offset": 240
+            },
+            "indent": []
+          },
+          "value": "world.locations.Asterim"
+        }
+      ],
+      "anchors": {
+        "notable-members": {
+          "type": "header",
+          "text": "Notable Members",
+          "value": "notable-members",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2s9lan55w6b9kb0909valdw",
+      "data": {}
+    },
+    "68b3yfsvjy3nurxncttcj2g": {
+      "id": "68b3yfsvjy3nurxncttcj2g",
+      "title": "World Fracture",
+      "desc": "",
+      "updated": 1666396407668,
+      "created": 1666396407668,
+      "custom": {},
+      "fname": "world-fracture",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "26294c362fad1a48bb3e0aa8b09b8059",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "world-fracture",
+            "id": "68b3yfsvjy3nurxncttcj2g",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes",
+          "alias": "The Great Catastrophes",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 90,
+              "offset": 295
+            },
+            "end": {
+              "line": 3,
+              "column": 135,
+              "offset": 340
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes"
+          }
+        },
+        {
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 73,
+              "offset": 381
+            },
+            "end": {
+              "line": 3,
+              "column": 106,
+              "offset": 414
+            },
+            "indent": []
+          },
+          "value": "world-fracture"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 1001
+            },
+            "end": {
+              "line": 23,
+              "column": 38,
+              "offset": 1038
+            },
+            "indent": []
+          },
+          "value": "world-fracture"
+        },
+        {
+          "from": {
+            "fname": "organizations.rescue-team-alliance",
+            "id": "z36wgjwymk481gcogb7lag0",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 119,
+              "offset": 3265
+            },
+            "end": {
+              "line": 36,
+              "column": 152,
+              "offset": 3298
+            },
+            "indent": []
+          },
+          "value": "world-fracture"
+        },
+        {
+          "from": {
+            "fname": "people.huxley",
+            "id": "2aui13hxma3m5os3ieccoq2",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 51,
+              "offset": 1226
+            },
+            "end": {
+              "line": 11,
+              "column": 78,
+              "offset": 1253
+            },
+            "indent": []
+          },
+          "value": "world-fracture"
+        }
+      ],
+      "anchors": {
+        "shadow-pokémon": {
+          "type": "header",
+          "text": "Shadow Pokémon",
+          "value": "shadow-pokémon",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "zh6cgxgxdu3u8nosydll2ik",
+      "data": {}
+    },
+    "7fcovynnlt7sbqti1o0ne8m": {
+      "id": "7fcovynnlt7sbqti1o0ne8m",
+      "title": "People",
+      "desc": "",
+      "updated": 1666321531392,
+      "created": 1666321531392,
+      "custom": {},
+      "fname": "people",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "8a1f4fdbd246c4622c253396ac7f0100",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.huxley",
+          "alias": "Huxley",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 299
+            },
+            "end": {
+              "line": 4,
+              "column": 27,
+              "offset": 323
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.huxley"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.ako",
+          "alias": "Ako",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 419
+            },
+            "end": {
+              "line": 7,
+              "column": 21,
+              "offset": 437
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.ako"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.shelia",
+          "alias": "Shelia",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 479
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 503
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.shelia"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.dendri",
+          "alias": "Dendri",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 551
+            },
+            "end": {
+              "line": 9,
+              "column": 27,
+              "offset": 575
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.dendri"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.azalea",
+          "alias": "Azalea",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 629
+            },
+            "end": {
+              "line": 10,
+              "column": 27,
+              "offset": 653
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.azalea"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.abbie",
+          "alias": "Abbie",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 689
+            },
+            "end": {
+              "line": 11,
+              "column": 25,
+              "offset": 711
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.abbie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.oliver",
+          "alias": "Oliver",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 750
+            },
+            "end": {
+              "line": 12,
+              "column": 27,
+              "offset": 774
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.oliver"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 836
+            },
+            "end": {
+              "line": 18,
+              "column": 18,
+              "offset": 853
+            },
+            "indent": []
+          },
+          "value": "people"
+        }
+      ],
+      "anchors": {
+        "notable-characters": {
+          "type": "header",
+          "text": "Notable Characters",
+          "value": "notable-characters",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "recurring-characters": {
+          "type": "header",
+          "text": "Recurring Characters",
+          "value": "recurring-characters",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "lvj83bv3qug8meuwpnltpvu",
+        "mhiexw9svbjwjxj7def5buf",
+        "pq8ejnc70cs1vr6n2evpk6c",
+        "ry8cmh8kl99pv5diu36zoni",
+        "2aui13hxma3m5os3ieccoq2",
+        "cfr6jp2aevzlss3o80dllbr",
+        "2ej49n7ai53zv9jau8o1yzo"
+      ],
+      "parent": "zh6cgxgxdu3u8nosydll2ik",
+      "data": {}
+    },
+    "2ej49n7ai53zv9jau8o1yzo": {
+      "id": "2ej49n7ai53zv9jau8o1yzo",
+      "title": "Shelia",
+      "desc": "",
+      "updated": 1666436376243,
+      "created": 1666436376243,
+      "custom": {},
+      "fname": "people.shelia",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "260df0cef5437f74ae7d502784064957",
+      "links": [
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 479
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 503
+            },
+            "indent": []
+          },
+          "value": "people.shelia"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 421,
+              "offset": 1321
+            },
+            "end": {
+              "line": 11,
+              "column": 445,
+              "offset": 1345
+            },
+            "indent": []
+          },
+          "value": "people.shelia"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 84,
+              "offset": 1808
+            },
+            "end": {
+              "line": 15,
+              "column": 108,
+              "offset": 1832
+            },
+            "indent": []
+          },
+          "value": "people.shelia"
+        },
+        {
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 719
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 743
+            },
+            "indent": []
+          },
+          "value": "people.shelia"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 356
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 380
+            },
+            "indent": []
+          },
+          "value": "people.shelia"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "cfr6jp2aevzlss3o80dllbr": {
+      "id": "cfr6jp2aevzlss3o80dllbr",
+      "title": "Oliver",
+      "desc": "",
+      "updated": 1666436387622,
+      "created": 1666436387623,
+      "custom": {},
+      "fname": "people.oliver",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "918938a88e82cb7c02bd97e2e58aab2a",
+      "links": [
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 750
+            },
+            "end": {
+              "line": 12,
+              "column": 27,
+              "offset": 774
+            },
+            "indent": []
+          },
+          "value": "people.oliver"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 472
+            },
+            "end": {
+              "line": 12,
+              "column": 27,
+              "offset": 496
+            },
+            "indent": []
+          },
+          "value": "people.oliver"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "2aui13hxma3m5os3ieccoq2": {
+      "id": "2aui13hxma3m5os3ieccoq2",
+      "title": "Huxley",
+      "desc": "",
+      "updated": 1670801916604,
+      "created": 1666433867014,
+      "custom": {},
+      "fname": "people.huxley",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "e7151cbe61d31ef1d4c936d3d59e4b73",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.huxley",
+            "id": "2aui13hxma3m5os3ieccoq2",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.ako",
+          "alias": "Ako",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 243,
+              "offset": 545
+            },
+            "end": {
+              "line": 5,
+              "column": 261,
+              "offset": 563
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.ako"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.huxley",
+            "id": "2aui13hxma3m5os3ieccoq2",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.Asterim",
+          "alias": "Asterim",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 379,
+              "offset": 681
+            },
+            "end": {
+              "line": 5,
+              "column": 414,
+              "offset": 716
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.Asterim"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.huxley",
+            "id": "2aui13hxma3m5os3ieccoq2",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world-fracture",
+          "alias": "Fracture",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 51,
+              "offset": 1226
+            },
+            "end": {
+              "line": 11,
+              "column": 78,
+              "offset": 1253
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world-fracture"
+          }
+        },
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 299
+            },
+            "end": {
+              "line": 4,
+              "column": 27,
+              "offset": 323
+            },
+            "indent": []
+          },
+          "value": "people.huxley"
+        },
+        {
+          "from": {
+            "fname": "organizations.rescue-team-alliance",
+            "id": "z36wgjwymk481gcogb7lag0",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 78,
+              "offset": 3224
+            },
+            "end": {
+              "line": 36,
+              "column": 102,
+              "offset": 3248
+            },
+            "indent": []
+          },
+          "value": "people.huxley"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 124,
+              "offset": 123
+            },
+            "end": {
+              "line": 1,
+              "column": 148,
+              "offset": 147
+            },
+            "indent": []
+          },
+          "value": "people.huxley"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 852
+            },
+            "end": {
+              "line": 9,
+              "column": 48,
+              "offset": 899
+            },
+            "indent": []
+          },
+          "value": "people.huxley"
+        },
+        {
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 636
+            },
+            "end": {
+              "line": 6,
+              "column": 27,
+              "offset": 660
+            },
+            "indent": []
+          },
+          "value": "people.Huxley"
+        }
+      ],
+      "anchors": {
+        "history": {
+          "type": "header",
+          "text": "History",
+          "value": "history",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "personality": {
+          "type": "header",
+          "text": "Personality",
+          "value": "personality",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "relationships": {
+          "type": "header",
+          "text": "Relationships",
+          "value": "relationships",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "ako": {
+          "type": "header",
+          "text": "Ako",
+          "value": "ako",
+          "line": 27,
+          "column": 0,
+          "depth": 3
+        },
+        "^k7mwuwvspezc": {
+          "type": "block",
+          "value": "k7mwuwvspezc",
+          "line": 13,
+          "column": 178
+        },
+        "^y065g0plpzvf": {
+          "type": "block",
+          "value": "y065g0plpzvf",
+          "line": 15,
+          "column": 249
+        }
+      },
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "ry8cmh8kl99pv5diu36zoni": {
+      "id": "ry8cmh8kl99pv5diu36zoni",
+      "title": "Dendri",
+      "desc": "",
+      "updated": 1666436379244,
+      "created": 1666436379244,
+      "custom": {},
+      "fname": "people.dendri",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "4cb9d0e183078041dffd8120149cf841",
+      "links": [
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 551
+            },
+            "end": {
+              "line": 9,
+              "column": 27,
+              "offset": 575
+            },
+            "indent": []
+          },
+          "value": "people.dendri"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 393
+            },
+            "end": {
+              "line": 9,
+              "column": 27,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "value": "people.dendri"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "pq8ejnc70cs1vr6n2evpk6c": {
+      "id": "pq8ejnc70cs1vr6n2evpk6c",
+      "title": "Azalea",
+      "desc": "",
+      "updated": 1666436382904,
+      "created": 1666436382904,
+      "custom": {},
+      "fname": "people.azalea",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "11885b85b5e991d56aa8ef16afea3884",
+      "links": [
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 629
+            },
+            "end": {
+              "line": 10,
+              "column": 27,
+              "offset": 653
+            },
+            "indent": []
+          },
+          "value": "people.azalea"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 222,
+              "offset": 1698
+            },
+            "end": {
+              "line": 13,
+              "column": 246,
+              "offset": 1722
+            },
+            "indent": []
+          },
+          "value": "people.azalea"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 109,
+              "offset": 1833
+            },
+            "end": {
+              "line": 15,
+              "column": 133,
+              "offset": 1857
+            },
+            "indent": []
+          },
+          "value": "people.azalea"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 420
+            },
+            "end": {
+              "line": 10,
+              "column": 27,
+              "offset": 444
+            },
+            "indent": []
+          },
+          "value": "people.azalea"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "mhiexw9svbjwjxj7def5buf": {
+      "id": "mhiexw9svbjwjxj7def5buf",
+      "title": "Ako",
+      "desc": "",
+      "updated": 1670801944315,
+      "created": 1666436372906,
+      "custom": {},
+      "fname": "people.ako",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "341e987ec9912b51e7ba663c08d5f9c3",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.huxley",
+          "alias": "Huxley",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 124,
+              "offset": 123
+            },
+            "end": {
+              "line": 1,
+              "column": 148,
+              "offset": 147
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.huxley"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.Asterim",
+          "alias": "Asterim",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 70,
+              "offset": 230
+            },
+            "end": {
+              "line": 4,
+              "column": 105,
+              "offset": 265
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.Asterim"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.tremor",
+          "alias": "The Great Tremor",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 200,
+              "offset": 1100
+            },
+            "end": {
+              "line": 11,
+              "column": 246,
+              "offset": 1146
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.tremor"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.shelia",
+          "alias": "Shelia",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 421,
+              "offset": 1321
+            },
+            "end": {
+              "line": 11,
+              "column": 445,
+              "offset": 1345
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.shelia"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.shelias-camp",
+          "alias": "small camp",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 489,
+              "offset": 1389
+            },
+            "end": {
+              "line": 11,
+              "column": 532,
+              "offset": 1432
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.shelias-camp"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.azalea",
+          "alias": "Azalea",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 222,
+              "offset": 1698
+            },
+            "end": {
+              "line": 13,
+              "column": 246,
+              "offset": 1722
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.azalea"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.shelias-camp",
+          "alias": "Shelia's Camp",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 26,
+              "offset": 1750
+            },
+            "end": {
+              "line": 15,
+              "column": 72,
+              "offset": 1796
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.shelias-camp"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.shelia",
+          "alias": "Shelia",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 84,
+              "offset": 1808
+            },
+            "end": {
+              "line": 15,
+              "column": 108,
+              "offset": 1832
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.shelia"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.azalea",
+          "alias": "Azalea",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 109,
+              "offset": 1833
+            },
+            "end": {
+              "line": 15,
+              "column": 133,
+              "offset": 1857
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.azalea"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.huxley",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 852
+            },
+            "end": {
+              "line": 9,
+              "column": 48,
+              "offset": 899
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "people.huxley",
+            "anchorHeader": "^k7mwuwvspezc:#^y065g0plpzvf"
+          }
+        },
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 419
+            },
+            "end": {
+              "line": 7,
+              "column": 21,
+              "offset": 437
+            },
+            "indent": []
+          },
+          "value": "people.ako"
+        },
+        {
+          "from": {
+            "fname": "people.huxley",
+            "id": "2aui13hxma3m5os3ieccoq2",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 243,
+              "offset": 545
+            },
+            "end": {
+              "line": 5,
+              "column": 261,
+              "offset": 563
+            },
+            "indent": []
+          },
+          "value": "people.ako"
+        },
+        {
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 698
+            },
+            "end": {
+              "line": 7,
+              "column": 21,
+              "offset": 716
+            },
+            "indent": []
+          },
+          "value": "people.ako"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 325
+            },
+            "end": {
+              "line": 7,
+              "column": 21,
+              "offset": 343
+            },
+            "indent": []
+          },
+          "value": "people.ako"
+        }
+      ],
+      "anchors": {
+        "history": {
+          "type": "header",
+          "text": "History",
+          "value": "history",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "personality": {
+          "type": "header",
+          "text": "Personality",
+          "value": "personality",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "relationships": {
+          "type": "header",
+          "text": "Relationships",
+          "value": "relationships",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "huxley": {
+          "type": "header",
+          "text": "Huxley",
+          "value": "huxley",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "shelia": {
+          "type": "header",
+          "text": "Shelia",
+          "value": "shelia",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "azalea": {
+          "type": "header",
+          "text": "Azalea",
+          "value": "azalea",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "lvj83bv3qug8meuwpnltpvu": {
+      "id": "lvj83bv3qug8meuwpnltpvu",
+      "title": "Abbie",
+      "desc": "",
+      "updated": 1666436385203,
+      "created": 1666436385203,
+      "custom": {},
+      "fname": "people.abbie",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "53eff155206117c8628db0728089392e",
+      "links": [
+        {
+          "from": {
+            "fname": "people",
+            "id": "7fcovynnlt7sbqti1o0ne8m",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 689
+            },
+            "end": {
+              "line": 11,
+              "column": 25,
+              "offset": 711
+            },
+            "indent": []
+          },
+          "value": "people.abbie"
+        },
+        {
+          "from": {
+            "fname": "world.locations.shelias-camp",
+            "id": "nniyqfu2hjqy42jv8kw0abx",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 447
+            },
+            "end": {
+              "line": 11,
+              "column": 25,
+              "offset": 469
+            },
+            "indent": []
+          },
+          "value": "people.abbie"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7fcovynnlt7sbqti1o0ne8m",
+      "data": {}
+    },
+    "s75uxhz7wr8b0mzu8my18j1": {
+      "id": "s75uxhz7wr8b0mzu8my18j1",
+      "title": "Organizations",
+      "desc": "",
+      "updated": 1666437536941,
+      "created": 1666437536941,
+      "custom": {},
+      "fname": "organizations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "439652122bd3bc96527b38d208eabee9",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "organizations",
+            "id": "s75uxhz7wr8b0mzu8my18j1",
+            "vaultName": "pmdwiki"
+          },
+          "value": "organizations.rescue-team-alliance",
+          "alias": "Rescue Team Alliance",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 260
+            },
+            "end": {
+              "line": 7,
+              "column": 62,
+              "offset": 319
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "organizations.rescue-team-alliance"
+          }
+        }
+      ],
+      "anchors": {
+        "existing-organizations": {
+          "type": "header",
+          "text": "Existing Organizations",
+          "value": "existing-organizations",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "defunct-organizations": {
+          "type": "header",
+          "text": "Defunct Organizations",
+          "value": "defunct-organizations",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "z36wgjwymk481gcogb7lag0"
+      ],
+      "parent": "zh6cgxgxdu3u8nosydll2ik",
+      "data": {}
+    },
+    "z36wgjwymk481gcogb7lag0": {
+      "id": "z36wgjwymk481gcogb7lag0",
+      "title": "Rescue Team Alliance",
+      "desc": "",
+      "updated": 1666437511581,
+      "created": 1666437511581,
+      "custom": {},
+      "fname": "organizations.rescue-team-alliance",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "89041275a8e34e0991919299ea015b12",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "organizations.rescue-team-alliance",
+            "id": "z36wgjwymk481gcogb7lag0",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people.huxley",
+          "alias": "Huxley",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 78,
+              "offset": 3224
+            },
+            "end": {
+              "line": 36,
+              "column": 102,
+              "offset": 3248
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people.huxley"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "organizations.rescue-team-alliance",
+            "id": "z36wgjwymk481gcogb7lag0",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world-fracture",
+          "alias": "World Fracture",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 119,
+              "offset": 3265
+            },
+            "end": {
+              "line": 36,
+              "column": 152,
+              "offset": 3298
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world-fracture"
+          }
+        },
+        {
+          "from": {
+            "fname": "organizations",
+            "id": "s75uxhz7wr8b0mzu8my18j1",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 260
+            },
+            "end": {
+              "line": 7,
+              "column": 62,
+              "offset": 319
+            },
+            "indent": []
+          },
+          "value": "organizations.rescue-team-alliance"
+        },
+        {
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 146,
+              "offset": 145
+            },
+            "end": {
+              "line": 1,
+              "column": 205,
+              "offset": 204
+            },
+            "indent": []
+          },
+          "value": "organizations.rescue-team-alliance"
+        }
+      ],
+      "anchors": {
+        "history": {
+          "type": "header",
+          "text": "History",
+          "value": "history",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "ranking": {
+          "type": "header",
+          "text": "Ranking",
+          "value": "ranking",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "code-of-conduct": {
+          "type": "header",
+          "text": "Code of Conduct",
+          "value": "code-of-conduct",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "notable-teams": {
+          "type": "header",
+          "text": "Notable Teams",
+          "value": "notable-teams",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "s75uxhz7wr8b0mzu8my18j1",
+      "data": {}
+    },
+    "mbgjs3d1copv01e81nxy0nf": {
+      "id": "mbgjs3d1copv01e81nxy0nf",
+      "title": "Meta",
+      "desc": "",
+      "updated": 1670802847860,
+      "created": 1670802061191,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "meta",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "7a316d74494565cc76e5f7075de79306",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "zw8zreiygnsgd6vsoayjpsf"
+      ],
+      "parent": "zh6cgxgxdu3u8nosydll2ik",
+      "data": {}
+    },
+    "zw8zreiygnsgd6vsoayjpsf": {
+      "id": "zw8zreiygnsgd6vsoayjpsf",
+      "title": "Homebrew Add-on",
+      "desc": "",
+      "updated": 1670803457453,
+      "created": 1670802863404,
+      "custom": {},
+      "fname": "meta.homebrew",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "2fe556f195c458fc982fcb973430968f",
+      "links": [],
+      "anchors": {
+        "combat": {
+          "type": "header",
+          "text": "Combat",
+          "value": "combat",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "moving-in-combat": {
+          "type": "header",
+          "text": "Moving in Combat",
+          "value": "moving-in-combat",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "attacking-move-range": {
+          "type": "header",
+          "text": "Attacking Move range",
+          "value": "attacking-move-range",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "saving-throws": {
+          "type": "header",
+          "text": "Saving Throws",
+          "value": "saving-throws",
+          "line": 40,
+          "column": 0,
+          "depth": 1
+        },
+        "skill-checks": {
+          "type": "header",
+          "text": "Skill Checks",
+          "value": "skill-checks",
+          "line": 45,
+          "column": 0,
+          "depth": 1
+        },
+        "critical-success": {
+          "type": "header",
+          "text": "Critical Success",
+          "value": "critical-success",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "logic-instinct-and-primal": {
+          "type": "header",
+          "text": "Logic, Instinct, and Primal",
+          "value": "logic-instinct-and-primal",
+          "line": 62,
+          "column": 0,
+          "depth": 1
+        },
+        "logic": {
+          "type": "header",
+          "text": "Logic",
+          "value": "logic",
+          "line": 65,
+          "column": 0,
+          "depth": 2
+        },
+        "instinct": {
+          "type": "header",
+          "text": "Instinct",
+          "value": "instinct",
+          "line": 68,
+          "column": 0,
+          "depth": 2
+        },
+        "primal": {
+          "type": "header",
+          "text": "Primal",
+          "value": "primal",
+          "line": 75,
+          "column": 0,
+          "depth": 2
+        },
+        "common-skill-checks": {
+          "type": "header",
+          "text": "Common Skill Checks",
+          "value": "common-skill-checks",
+          "line": 84,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "mbgjs3d1copv01e81nxy0nf",
+      "data": {}
+    },
+    "wf0akia7teumrr2uz9ahcai": {
+      "id": "wf0akia7teumrr2uz9ahcai",
+      "title": "Great Catastrophes",
+      "desc": "",
+      "updated": 1670801980984,
+      "created": 1666316993317,
+      "custom": {},
+      "fname": "great-catastrophes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "a00d60f59d9ffe826e85e6c41245b728",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world-fracture",
+          "alias": "World Fracture",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 73,
+              "offset": 381
+            },
+            "end": {
+              "line": 3,
+              "column": 106,
+              "offset": 414
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world-fracture"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.tremor",
+          "alias": "The Great Tremor",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 449
+            },
+            "end": {
+              "line": 6,
+              "column": 49,
+              "offset": 495
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.tremor"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.flood",
+          "alias": "The Great Flood",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 498
+            },
+            "end": {
+              "line": 7,
+              "column": 47,
+              "offset": 542
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.flood"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.winds",
+          "alias": "The Great Winds",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 545
+            },
+            "end": {
+              "line": 8,
+              "column": 47,
+              "offset": 589
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.winds"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.eruption",
+          "alias": "The Great Eruption",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 592
+            },
+            "end": {
+              "line": 9,
+              "column": 53,
+              "offset": 642
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.eruption"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes.wave",
+          "alias": "The Great Wave",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 645
+            },
+            "end": {
+              "line": 10,
+              "column": 45,
+              "offset": 687
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes.wave"
+          }
+        },
+        {
+          "from": {
+            "fname": "world-fracture",
+            "id": "68b3yfsvjy3nurxncttcj2g",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 90,
+              "offset": 295
+            },
+            "end": {
+              "line": 3,
+              "column": 135,
+              "offset": 340
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 1,
+              "offset": 914
+            },
+            "end": {
+              "line": 20,
+              "column": 46,
+              "offset": 959
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes"
+        }
+      ],
+      "anchors": {
+        "list-of-great-catastrophes": {
+          "type": "header",
+          "text": "List of Great catastrophes",
+          "value": "list-of-great-catastrophes",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "d1kaoy59g56k2mdr789vrvg",
+        "397ftgwav35j8s57mhajse2",
+        "fafzzrn2byyqw5ikkze2l9r",
+        "3yhg6tzccoyefbpz12yaky6",
+        "s9v791017mtduvbqkxnudeo"
+      ],
+      "parent": "zh6cgxgxdu3u8nosydll2ik",
+      "data": {}
+    },
+    "s9v791017mtduvbqkxnudeo": {
+      "id": "s9v791017mtduvbqkxnudeo",
+      "title": "The Great Winds",
+      "desc": "",
+      "updated": 1666321290333,
+      "created": 1666321290333,
+      "custom": {},
+      "fname": "great-catastrophes.winds",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "bf8cef20047d6f6202627d42a46dceb0",
+      "links": [
+        {
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 545
+            },
+            "end": {
+              "line": 8,
+              "column": 47,
+              "offset": 589
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.winds"
+        },
+        {
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 228,
+              "offset": 1367
+            },
+            "end": {
+              "line": 16,
+              "column": 272,
+              "offset": 1411
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.winds"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wf0akia7teumrr2uz9ahcai",
+      "data": {}
+    },
+    "3yhg6tzccoyefbpz12yaky6": {
+      "id": "3yhg6tzccoyefbpz12yaky6",
+      "title": "The Great Wave",
+      "desc": "",
+      "updated": 1666321308109,
+      "created": 1666321308109,
+      "custom": {},
+      "fname": "great-catastrophes.wave",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "31aedbeb72e89366c8177d77bbf7eb76",
+      "links": [
+        {
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 645
+            },
+            "end": {
+              "line": 10,
+              "column": 45,
+              "offset": 687
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.wave"
+        },
+        {
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 336,
+              "offset": 1475
+            },
+            "end": {
+              "line": 16,
+              "column": 378,
+              "offset": 1517
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.wave"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wf0akia7teumrr2uz9ahcai",
+      "data": {}
+    },
+    "fafzzrn2byyqw5ikkze2l9r": {
+      "id": "fafzzrn2byyqw5ikkze2l9r",
+      "title": "The Great Tremor",
+      "desc": "",
+      "updated": 1670801966666,
+      "created": 1666321108557,
+      "custom": {},
+      "fname": "great-catastrophes.tremor",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "8f016bc7cbd982cdcfcd961af06b0556",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "great-catastrophes.tremor",
+            "id": "fafzzrn2byyqw5ikkze2l9r",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations.Asterim",
+          "alias": "Asterim",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 277
+            },
+            "end": {
+              "line": 4,
+              "column": 38,
+              "offset": 312
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations.Asterim"
+          }
+        },
+        {
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 449
+            },
+            "end": {
+              "line": 6,
+              "column": 49,
+              "offset": 495
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.tremor"
+        },
+        {
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 134,
+              "offset": 1273
+            },
+            "end": {
+              "line": 16,
+              "column": 180,
+              "offset": 1319
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.tremor"
+        },
+        {
+          "from": {
+            "fname": "people.ako",
+            "id": "mhiexw9svbjwjxj7def5buf",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 200,
+              "offset": 1100
+            },
+            "end": {
+              "line": 11,
+              "column": 246,
+              "offset": 1146
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.tremor"
+        },
+        {
+          "from": {
+            "fname": "world.locations.Asterim",
+            "id": "1qv5bt0exb5d0j8bll46s25",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 21,
+              "offset": 354
+            },
+            "end": {
+              "line": 3,
+              "column": 67,
+              "offset": 400
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.tremor"
+        }
+      ],
+      "anchors": {
+        "affected-settlementstowns": {
+          "type": "header",
+          "text": "Affected Settlements/Towns",
+          "value": "affected-settlementstowns",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wf0akia7teumrr2uz9ahcai",
+      "data": {}
+    },
+    "397ftgwav35j8s57mhajse2": {
+      "id": "397ftgwav35j8s57mhajse2",
+      "title": "The Great Flood",
+      "desc": "",
+      "updated": 1666321278453,
+      "created": 1666321278453,
+      "custom": {},
+      "fname": "great-catastrophes.flood",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "b9cb66e4f4aa24d6eed9cd66c0556754",
+      "links": [
+        {
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 498
+            },
+            "end": {
+              "line": 7,
+              "column": 47,
+              "offset": 542
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.flood"
+        },
+        {
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 182,
+              "offset": 1321
+            },
+            "end": {
+              "line": 16,
+              "column": 226,
+              "offset": 1365
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.flood"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wf0akia7teumrr2uz9ahcai",
+      "data": {}
+    },
+    "d1kaoy59g56k2mdr789vrvg": {
+      "id": "d1kaoy59g56k2mdr789vrvg",
+      "title": "The Great Eruption",
+      "desc": "",
+      "updated": 1666321299397,
+      "created": 1666321299397,
+      "custom": {},
+      "fname": "great-catastrophes.eruption",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "503e51a9d4501e89db41da8ac9c1f661",
+      "links": [
+        {
+          "from": {
+            "fname": "great-catastrophes",
+            "id": "wf0akia7teumrr2uz9ahcai",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 592
+            },
+            "end": {
+              "line": 9,
+              "column": 53,
+              "offset": 642
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.eruption"
+        },
+        {
+          "from": {
+            "fname": "world",
+            "id": "meudvewf5oo11wq8mhf0kym",
+            "vaultName": "pmdwiki"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 274,
+              "offset": 1413
+            },
+            "end": {
+              "line": 16,
+              "column": 324,
+              "offset": 1463
+            },
+            "indent": []
+          },
+          "value": "great-catastrophes.eruption"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "wf0akia7teumrr2uz9ahcai",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "zh6cgxgxdu3u8nosydll2ik",
+      "title": "The Wondrous World",
+      "desc": "",
+      "updated": 1666599474864,
+      "created": 1666316457940,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "pmdwiki"
+      },
+      "contentHash": "7d4ec587097283e431c6b0171d591530",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world",
+          "alias": "World",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 698
+            },
+            "end": {
+              "line": 15,
+              "column": 16,
+              "offset": 713
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world.locations",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 4,
+              "offset": 756
+            },
+            "end": {
+              "line": 16,
+              "column": 23,
+              "offset": 775
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world.locations"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "people",
+          "alias": "People",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 836
+            },
+            "end": {
+              "line": 18,
+              "column": 18,
+              "offset": 853
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "people"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "great-catastrophes",
+          "alias": "The Great Catastrophes",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 1,
+              "offset": 914
+            },
+            "end": {
+              "line": 20,
+              "column": 46,
+              "offset": 959
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "great-catastrophes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "zh6cgxgxdu3u8nosydll2ik",
+            "vaultName": "pmdwiki"
+          },
+          "value": "world-fracture",
+          "alias": "The World Fracture",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 1001
+            },
+            "end": {
+              "line": 23,
+              "column": 38,
+              "offset": 1038
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "world-fracture"
+          }
+        }
+      ],
+      "anchors": {
+        "outline": {
+          "type": "header",
+          "text": "Outline",
+          "value": "outline",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "wf0akia7teumrr2uz9ahcai",
+        "mbgjs3d1copv01e81nxy0nf",
+        "s75uxhz7wr8b0mzu8my18j1",
+        "7fcovynnlt7sbqti1o0ne8m",
+        "68b3yfsvjy3nurxncttcj2g",
+        "meudvewf5oo11wq8mhf0kym"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "![pmdlogo.png](assets/pmdlogo.png){max-width: 195px, float: left, margin: 20px}\n\nThe world of Undr Öld - in english, The Wondrous World! This is an island untouched by humanity, shrouded in mystery, with adventures far larger than it alone! The inhabitants are comprised entirely of Pokémon! \n\nThis wiki is a part of my Pokerole campaign. If you're a player of said campaign, 1. how did you find this and 2. Please click off this has major spoilers!\n\nBelow you can see the Outline of various pages and points of interest within the world!\n\nThis is a *private* campaign and as a result there will be no publicly available VoDs for this campaign.\n\nThe PMD logo was made by kiwi_p0yo\n<br/>\n\n# Outline\n[[World|world]] - Brief overview of the World at large\n - [[world.locations]] - An explanation of the settlements that inhabit the world\n\n[[People|people]] - The various and notable Pokémon that can be encountered!\n\n[[The Great Catastrophes|great-catastrophes]] - Major events that disrupt the island\n\n\n[[The World Fracture|world-fracture]] - The source of the great catastrophes and happenings in the world."
+    }
+  ],
+  "noteIndex": {
+    "id": "zh6cgxgxdu3u8nosydll2ik",
+    "title": "The Wondrous World",
+    "desc": "",
+    "updated": 1666599474864,
+    "created": 1666316457940,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "pmdwiki"
+    },
+    "contentHash": "7d4ec587097283e431c6b0171d591530",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "zh6cgxgxdu3u8nosydll2ik",
+          "vaultName": "pmdwiki"
+        },
+        "value": "world",
+        "alias": "World",
+        "position": {
+          "start": {
+            "line": 15,
+            "column": 1,
+            "offset": 698
+          },
+          "end": {
+            "line": 15,
+            "column": 16,
+            "offset": 713
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "world"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "zh6cgxgxdu3u8nosydll2ik",
+          "vaultName": "pmdwiki"
+        },
+        "value": "world.locations",
+        "position": {
+          "start": {
+            "line": 16,
+            "column": 4,
+            "offset": 756
+          },
+          "end": {
+            "line": 16,
+            "column": 23,
+            "offset": 775
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "world.locations"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "zh6cgxgxdu3u8nosydll2ik",
+          "vaultName": "pmdwiki"
+        },
+        "value": "people",
+        "alias": "People",
+        "position": {
+          "start": {
+            "line": 18,
+            "column": 1,
+            "offset": 836
+          },
+          "end": {
+            "line": 18,
+            "column": 18,
+            "offset": 853
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "people"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "zh6cgxgxdu3u8nosydll2ik",
+          "vaultName": "pmdwiki"
+        },
+        "value": "great-catastrophes",
+        "alias": "The Great Catastrophes",
+        "position": {
+          "start": {
+            "line": 20,
+            "column": 1,
+            "offset": 914
+          },
+          "end": {
+            "line": 20,
+            "column": 46,
+            "offset": 959
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "great-catastrophes"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "zh6cgxgxdu3u8nosydll2ik",
+          "vaultName": "pmdwiki"
+        },
+        "value": "world-fracture",
+        "alias": "The World Fracture",
+        "position": {
+          "start": {
+            "line": 23,
+            "column": 1,
+            "offset": 1001
+          },
+          "end": {
+            "line": 23,
+            "column": 38,
+            "offset": 1038
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "world-fracture"
+        }
+      }
+    ],
+    "anchors": {
+      "outline": {
+        "type": "header",
+        "text": "Outline",
+        "value": "outline",
+        "line": 20,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "wf0akia7teumrr2uz9ahcai",
+      "mbgjs3d1copv01e81nxy0nf",
+      "s75uxhz7wr8b0mzu8my18j1",
+      "7fcovynnlt7sbqti1o0ne8m",
+      "68b3yfsvjy3nurxncttcj2g",
+      "meudvewf5oo11wq8mhf0kym"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "![pmdlogo.png](assets/pmdlogo.png){max-width: 195px, float: left, margin: 20px}\n\nThe world of Undr Öld - in english, The Wondrous World! This is an island untouched by humanity, shrouded in mystery, with adventures far larger than it alone! The inhabitants are comprised entirely of Pokémon! \n\nThis wiki is a part of my Pokerole campaign. If you're a player of said campaign, 1. how did you find this and 2. Please click off this has major spoilers!\n\nBelow you can see the Outline of various pages and points of interest within the world!\n\nThis is a *private* campaign and as a result there will be no publicly available VoDs for this campaign.\n\nThe PMD logo was made by kiwi_p0yo\n<br/>\n\n# Outline\n[[World|world]] - Brief overview of the World at large\n - [[world.locations]] - An explanation of the settlements that inhabit the world\n\n[[People|people]] - The various and notable Pokémon that can be encountered!\n\n[[The Great Catastrophes|great-catastrophes]] - Major events that disrupt the island\n\n\n[[The World Fracture|world-fracture]] - The source of the great catastrophes and happenings in the world."
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "pmdwiki"
+    }
+  ]
+}
