@@ -82,7 +82,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     logoPath: notes/assets/pmdlogo.png
-    theme: custom
+    theme: dark
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
