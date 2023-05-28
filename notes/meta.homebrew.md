@@ -2,7 +2,7 @@
 id: zw8zreiygnsgd6vsoayjpsf
 title: Homebrew Add-on
 desc: ''
-updated: 1670803457453
+updated: 1685246162138
 created: 1670802863404
 ---
 In the outline you will find sections as they pertain to items I have changed for our game. If you have any questions at any point about certain mechanics please let me know and I will do my best to explain them! Things may change as we play! It can be confusing for all of us, but I will attempt to streamline the game as best as possible so we can have the most fun possible!
@@ -55,10 +55,10 @@ If you want to try something weird go for it! I will generally let you know what
 Achieving all successes (where all the dice read successes), is considered a Critical Success (Equivalent to a Nat 20).
 
 ## Critical Success
-On a skill check, Achieving Successes on All of your Dice, is considered the equivalent to a Natural 20 in D&D terms. This only applies to rolls where you roll 3 or more dice.
+On a skill check, Achieving Successes on All of your Dice, is considered the equivalent to a Natural 20 in D&D terms. This only applies to rolls where you roll 3 or more dice. ^ww33jdu5l3j4
 
 For example, If you roll a skill check for stealth, but only have 2 dice to roll, you cannot critically succeed. 
-Another example. If you roll a skill check for Perception (Insight + Nature). And have 4 dice to roll, you can critically succeed!
+Another example. If you roll a skill check for Perception (Insight + Nature). And have 4 dice to roll, you can critically succeed! ^aor8ncn2ouqy
 
 # Logic, Instinct, and Primal
 This section of the PMD Module is outdated as the module was originally made for 1.0 of the Pokerole rule set. I am following a homebrew ruleset to bring this more in line with 2.0.
@@ -83,3 +83,8 @@ Everyone starts with 0 Primal. You add 1 to Primal as you spend a point, to a ma
 If you use all 5 points of Primal. In the round you triggered it you will pass out when everything resolves.
 
 # Common Skill Checks
+
+# Custom Actions
+Below are a list of custom actions used in the campaign that everyone has access to.
+## Snap out of it!
+Once per round, you may attempt to snap a party member out of their confusion or infatuation by attempting a non-damaging slap to them. `Insight + Alert` Success DC equal to the initial accuracy of the move.
