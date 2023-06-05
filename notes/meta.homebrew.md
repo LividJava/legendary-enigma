@@ -2,7 +2,7 @@
 id: zw8zreiygnsgd6vsoayjpsf
 title: Homebrew Add-on
 desc: ''
-updated: 1685246162138
+updated: 1686003191157
 created: 1670802863404
 ---
 In the outline you will find sections as they pertain to items I have changed for our game. If you have any questions at any point about certain mechanics please let me know and I will do my best to explain them! Things may change as we play! It can be confusing for all of us, but I will attempt to streamline the game as best as possible so we can have the most fun possible!
@@ -80,7 +80,7 @@ Everyone is down, you’re the last one standing in the face of this monster, yo
 
 Everyone starts with 0 Primal. You add 1 to Primal as you spend a point, to a max of 5. When spending a point you regain HP equal to your Instinct score and clear all status conditions.
 
-If you use all 5 points of Primal. In the round you triggered it you will pass out when everything resolves.
+If you use all 5 points of Primal. In the round you triggered it you will pass out when everything resolves. ^dvatxa0csgoe
 
 # Common Skill Checks
 
