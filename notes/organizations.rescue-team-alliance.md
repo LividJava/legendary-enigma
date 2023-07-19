@@ -2,9 +2,13 @@
 id: z36wgjwymk481gcogb7lag0
 title: Rescue Team Alliance
 desc: ''
-updated: 1666437511581
+updated: 1689764432243
 created: 1666437511581
 ---
+|Type|Status|
+|-|
+|Association|Defunct|
+<br/>
 While its founders are unknown. The Rescue Team Alliance (RTA) was heralded as a source for all up and coming adventurers to start. While membership was not mandatory, it was seen as a rather Unusual move for members to not be a part of the RTA
 
 ## History
@@ -37,8 +41,8 @@ When applying to join for the RTA members would have to adhere to a code of cond
 2. Don't go overboard and know your limits!
 3. Do not discriminate against members or non-members!
 4. In-fighting is allowed so long as all parties agree to it! Fighting without consent is grounds for immediate blacklisting!
-5. Conduct yourselves with respect to **ALL** people no matter their origin.
+5. Conduct yourselves with respect to **ALL** people no matter their origin. ^2y3t2p2rnlfz
 
 ## Notable Teams
-- Team Novus | Master ★★★ - Team Novus attained Master ★★★ when their leader [[Huxley|people.huxley]] sealed away the [[World Fracture|world-fracture]].
+- Team Novus | Master ★★★ - Team Novus attained Master ★★★ when their leader [[Vincent|people.vincent]] sealed away the [[World Fracture|world-fracture]].
 - *Unknown Team* | Master ★★★ - This team is supposedly comprised of RTA founders. Their accomplishments lived on in the continued existence of the RTA

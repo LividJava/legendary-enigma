@@ -8,7 +8,7 @@ created: 1666321531392
 The people of this world are not People but are Pokémon. They are creatures of wonder and awe. However they are also vicious and sometimes vile. Unlike Humans, Pokémon are willing to cooperate first before fighting, as the end result of fighting generally results in death.
 
 ## Notable Characters
-- [[Huxley|people.huxley]], A wise and mysterious Raichu. Seems to know more than he let's on.
+- [[Vincent|people.vincent]], A wise and mysterious Raichu. Seems to know more than he let's on.
 
 ## Recurring Characters
 - [[Ako|people.ako]], A Spinda with a Motherly personality.

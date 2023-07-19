@@ -1,0 +1,11 @@
+version: 1
+imports: []
+schemas:
+  - id: places
+    children: []
+    title: places
+    parent: root
+    namespace: true
+    template:
+     id: template.places
+     type: note

@@ -2,7 +2,7 @@
 id: zh6cgxgxdu3u8nosydll2ik
 title: The Wondrous World
 desc: ''
-updated: 1666599474864
+updated: 1689765729892
 created: 1666316457940
 ---
 ![pmdlogo.png](assets/pmdlogo.png){max-width: 195px, float: left, margin: 20px}
@@ -19,8 +19,7 @@ The PMD logo was made by kiwi_p0yo
 <br/>
 
 # Outline
-[[World|world]] - Brief overview of the World at large
- - [[world.locations]] - An explanation of the settlements that inhabit the world
+[[World|places]] - Brief overview of the World at large
 
 [[People|people]] - The various and notable Pokémon that can be encountered!
 
