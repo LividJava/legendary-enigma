@@ -2,7 +2,7 @@
 id: z36wgjwymk481gcogb7lag0
 title: Rescue Team Alliance
 desc: ''
-updated: 1689764432243
+updated: 1689835777457
 created: 1666437511581
 ---
 |Type|Status|
@@ -44,5 +44,5 @@ When applying to join for the RTA members would have to adhere to a code of cond
 5. Conduct yourselves with respect to **ALL** people no matter their origin. ^2y3t2p2rnlfz
 
 ## Notable Teams
-- Team Novus | Master ★★★ - Team Novus attained Master ★★★ when their leader [[Vincent|people.vincent]] sealed away the [[World Fracture|world-fracture]].
+- Team Novus | Master ★★★ - Team Novus attained Master ★★★ when their leader [[Vincent|people.npc.vincent]] sealed away the [[World Fracture|world-fracture]].
 - *Unknown Team* | Master ★★★ - This team is supposedly comprised of RTA founders. Their accomplishments lived on in the continued existence of the RTA

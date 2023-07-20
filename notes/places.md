@@ -2,7 +2,7 @@
 id: meudvewf5oo11wq8mhf0kym
 title: Places
 desc: ''
-updated: 1689765258690
+updated: 1689835746174
 created: 1666316786083
 ---
 ![mapgen-4-609.png](assets/mapgen-4-609.png){max-width: 350px, float: left, margin: 20px, border: 2px solid }
@@ -26,7 +26,7 @@ The settlements and towns of the island consist entirely of various pokemon. Com
 
 
 ## Settlements
-Settlements are dotted everywhere throughout the island, and generally have a population size of >5-15 people. Small and quaint, are mostly comprised of friends or families.
+Settlements are dotted everywhere throughout the island, and generally have a population size of >5-15 people.npc. Small and quaint, are mostly comprised of friends or families.
 
 ### Notable Settlements
 [[Shelia's Camp (minor)|places.shelias-camp]]  

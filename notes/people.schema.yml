@@ -2,10 +2,16 @@ version: 1
 imports: []
 schemas:
   - id: people
-    children: []
     title: people
     parent: root
-    namespace: true
-    template:
-     id: template.people
-     type: note
+    children:
+     - pattern: npc
+       namespace: true
+       template:
+        id: template.npc
+        type: note
+     - pattern: pc
+       namespace: true
+       template:
+        id: template.pc
+        type: note

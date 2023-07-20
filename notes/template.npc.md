@@ -1,6 +1,6 @@
 ---
 id: wpogs8o0iso8nrue9ep6bz5
-title: People
+title: Npc
 desc: ''
 updated: 1689765074271
 created: 1689763181877

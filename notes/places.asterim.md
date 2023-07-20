@@ -2,7 +2,7 @@
 id: 1qv5bt0exb5d0j8bll46s25
 title: Asterim
 desc: ''
-updated: 1689764290214
+updated: 1689835738614
 created: 1666433170620
 ---
 |Type|Location|
@@ -14,6 +14,6 @@ One of the main settlements of the world. A settlement of new beginnings for up 
 Asterim was lost in [[The Great Tremor|great-catastrophes.tremor]], as a large part of the settlement resided on unstable land. It originally was not an issue at the time of it's foundation as earthquakes were minimal at best, and times they did occur the damange was negligable.
 
 ## Notable People
-- [[Vincent|people.vincent]] (Founder, Former RTA board member)
-- [[Ako|people.ako]]
-- [[Shelia|people.shelia]]
+- [[Vincent|people.npc.vincent]] (Founder, Former RTA board member)
+- [[Akko|people.npc.akko]]
+- [[Shelia|people.npc.shelia]]
