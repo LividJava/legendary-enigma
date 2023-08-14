@@ -32,8 +32,8 @@ workspace:
         dateFormat: y.MM.dd
         addBehavior: childOfDomain
     scratch:
-        name: scratch
-        dateFormat: y.MM.dd.HHmmss
+        name: session
+        dateFormat: y.MM.dd
         addBehavior: asOwnDomain
     task:
         name: task
