@@ -2,7 +2,7 @@
 id: z5246faofxk9khx58e776k6
 title: '13'
 desc: ''
-updated: 1691974552833
+updated: 1693867496786
 created: 1691970028543
 ---
 [[places.duskpeak]]  
@@ -20,3 +20,5 @@ Town square
 
 Sacred place  
 Bell rung 3 times.  
+
+Typlosion
