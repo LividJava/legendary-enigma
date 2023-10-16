@@ -2,7 +2,7 @@
 id: nniyqfu2hjqy42jv8kw0abx
 title: Shelia's Camp
 desc: ''
-updated: 1689835748533
+updated: 1696917539401
 created: 1666432772075
 ---
 |Type|Location|
@@ -18,8 +18,8 @@ This camp would eventually become resolved and merge with [[places.duskalos]].
 
 ## Members
 - [[Akko|people.npc.akko]] (Founder)
-- [[Shelia|people.npc.shelia]] (Founder)
+- [[Shelia|people.npc.minor.shelia]] (Founder)
 - [[Dendri|people.npc.dendri]]
-- [[Azalea|people.npc.azalea]]
-- [[Abbie|people.npc.abbie]]
-- [[Oliver|people.npc.oliver]]
+- [[Azalea|people.npc.minor.azalea]]
+- [[Abbie|people.npc.minor.abbie]]
+- [[Oliver|people.npc.minor.oliver]]

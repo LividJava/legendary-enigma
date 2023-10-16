@@ -2,7 +2,7 @@
 id: 1qv5bt0exb5d0j8bll46s25
 title: Asterim
 desc: ''
-updated: 1689835738614
+updated: 1696917492210
 created: 1666433170620
 ---
 |Type|Location|
@@ -16,4 +16,4 @@ Asterim was lost in [[The Great Tremor|great-catastrophes.tremor]], as a large p
 ## Notable People
 - [[Vincent|people.npc.vincent]] (Founder, Former RTA board member)
 - [[Akko|people.npc.akko]]
-- [[Shelia|people.npc.shelia]]
+- [[Shelia|people.npc.minor.shelia]]
