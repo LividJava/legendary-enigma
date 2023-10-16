@@ -1,30 +1,10 @@
 ---
 id: zt2b4jmlfq0ddalfyaqppyx
-title: Homebrew Rework/System Change
+title: Player Add-on Resource
 desc: ''
-updated: 1692403194746
+updated: 1697447564845
 created: 1692223142677
 ---
-<font size="5" color="red">This document is subject to change</font>
-
-<details>
-<summary>To-Do</summary>  
-
-- [x] Character Conversion Process
-  - [x] Attribute Equivalents
-  - [x] Skill Equivalents (Dropped in favor of 5E skills)
-- [x] Pokerole Move Table Conversion
-  - [x] Type Weakness and Advantage
-  - [x] Conversion Formula
-  - [x] Ability (Dropped in favor of Classes)
-- [x] Pokemon Racial Stats
-  - [x] Movement (Using D&D Pokemon 5E)
-  - [x] Extra Abilities (no plans)
-  - [x] Natures? (Dropped for Alignments Which are also dropped)
-- [ ] Homebrew Conversions
-- [x] Homebrew Additions
-  - [x] DC Gradient (Just because you failed the check, doesn't mean you've failed entirely)
-</details>
 
 # Scope
 The goal of this document is to integrate certain functions of the Pokerole system and the PMD Add-on module within the D&D 5E system. It will largely express the current problems I have with the current Pokerole system and hope to address them. This will be run in sections to explain each core concept of both 5E and Pokerole, how they are planned to be merged, as well as a conversion system for the Moves.
@@ -35,9 +15,6 @@ For context this will only assume the setting is for the PMD Add-on and all play
 For the process of character creation, you'll largely follow the process of 5E for creating a character. Depending on your DM's preference of either Point Buy or Rolls. 
 
 There are exceptions. Due to the nature of Magic using classes and Pokemon, it's advised that they be avoided where possible. As most magic casting could be replaced for Pokemon using Moves.
-
-## Character Conversion
-If you already have a character. You'll need to make a character from scratch effectively. Work with your DM to see what level you'd start at, what bonuses (if any) can be applied to character creation, and other things such as that. Your Character concept should remain largely unaffected.
 
 ## 5E Specific Stats
 For this, Use [This site](https://pokedex-5e.herokuapp.com/) but ignore references to Moves, this is an incomplete list. Take note of the Hit Die and Movement Speeds and Size Class, which is required for the remainder of your character creation. 
@@ -86,24 +63,40 @@ In the event the move you want to use uses a Social Attribute (see [^1]) you sim
 This section will cover how to calculate for your weakness, resistance, and STAB
 
 #### Weakness
-If you are weak against a certain move you take more damage than you normally would (+2, and +4 in cases of Double attack.)
+If you are weak against a certain move you take more damage than you normally would (+2, and +4 in cases of Double Super Effective.)
 
 #### Resistance
-If you resist a certain move you take less damage (-2, and -4 in cases of double resistance, unless you are immune in which you take no damage)
+If you resist a certain move you take less damage (-2, and -4 in cases of Double Not Very Effective, unless you are immune in which you take no damage)
 
 #### STAB
 Same Type Attack Bonus will let you add your CL divided by 4 rounded down.
 
 
+# Homebrew Variant Rules
+I tend to disagree with the WotC and Pokerole on certain things. Below you can find the Rule Variants I use in my game.
+
+## Death Saves (Variant)
+Roll death saves as normal. However taking damage does not constitute an auto-fail. For every 5 points (after DR) of damage you take, increase the Death Save DC by 1 for that round.
+
 ## Difficulty Class Gradient
 Due to my DMing Style, I am a Narrative First DM, meaning above all else, the story, the player's interactions with the world, and how the world reacts around them, come first.
 
-In "Rules as Written" DC checks are largely you either Hit the DC or you fail. Frankly speaking, this sucks. and I much prefer utilizing this.
+In "Rules as Written" DC checks are largely you either Hit the DC or you fail. Frankly speaking, this sucks. and I much prefer utilizing this variant rule.
 
 When interacting with an NPC, if you do not succeed the skill check *but fall within a few points short* things will swing in your favor, but not entirely. Just because you didn't pass the check doesn't mean your words did nothing.
 
 This rule will be applied at the DMs discretion and when it applies will be largely unknown to the player for full immersion.
 
+
+## Primal
+### Trait
+*When your back is against the wall, you need to stand tall, for one final hit.*
+
+When you reach Zero hit points, Before you go down, but after you take the hit points, as a Reaction, you can spend a Primal point to restore 1d6+Con Mod of HP, Restore 1 point to all class and racial abilities, and if applicable 1 spell slot of your choice. In addition, you are still standing and still have any applicable actions on your turn. You can use this ability Twice per combat.
+
+The amount of Primal you have will be equal to your Strength Mod + Constitution Mod. When an encounter ends, you will immediately fall unconscious and fall to 1 HP regardless of whether or not you were healed, due to the strain it took on your body. You regain 1 Primal point per long rest.
+
+Upon spending your last point of Primal your damage is Doubled. However at the end of combat you will fall to Zero HP and roll Death Saves.
 
 
 [^2]:*[CL]: Character Level 
@@ -113,3 +106,4 @@ This rule will be applied at the DMs discretion and when it applies will be larg
 *[DC]: Difficulty Class
 *[AC]: Armor Class
 *[STAB]: Same Type Attack Bonus
+*[DR]: Damage Reduction
