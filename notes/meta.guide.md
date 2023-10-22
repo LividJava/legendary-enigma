@@ -26,6 +26,6 @@ The amount of moves you can learn is INS + 2 (same as Will.)
 If you're following along for the base PMD module? Congrats (not included in this quick guide, Primal, Logic, and Instinct)! If it's for my Homebrew. Keep scrollin' y'ain't done yet.
 
 #### Logic Primal and Instinct
-For Logic, Primal, and Instinct, follow the rules from the [[meta.homebrew]]. They will also be listed below. ^lpi
+For Logic, Primal, and Instinct, follow the rules from the [[meta.homebrewold]]. They will also be listed below. ^lpi
 
-![[meta.homebrew#logic:#^dvatxa0csgoe]]
+![[meta.homebrewold#logic:#^dvatxa0csgoe]]

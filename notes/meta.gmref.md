@@ -72,7 +72,7 @@ To land a Critical Hit you have to role 3 more successes than what is required f
 High-Crit moves only require 2.
 
 ### Critical Successes
-![[meta.homebrew#^ww33jdu5l3j4:#^aor8ncn2ouqy]]
+![[meta.homebrewold#^ww33jdu5l3j4:#^aor8ncn2ouqy]]
 
 ## Status Effects
 |Condition|Effect|Resist|Duration|

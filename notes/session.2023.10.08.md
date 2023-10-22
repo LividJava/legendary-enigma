@@ -1,8 +1,8 @@
 ---
 id: f0o0gi0r3d71vsowkmxr2nv
-title: 08
+title: 'Session 7'
 desc: ''
-updated: 1696813356333
+updated: 1697959137844
 created: 1696813281689
 ---
 Encountered a lackey, found a medallion of corruption.  
