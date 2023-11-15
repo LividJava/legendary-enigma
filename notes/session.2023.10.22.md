@@ -1,8 +1,8 @@
 ---
 id: aoq9npl7konkykmttoiy3u8
-title: 'Session 9'
+title: 'Session 9: A True Adventure?'
 desc: ''
-updated: 1697970301129
+updated: 1698013760989
 created: 1697959081653
 ---
 ## Planning
@@ -29,17 +29,33 @@ The Localized weather change is due to Bridgette's unknown Phase Change ability.
 
 
 #### Nightly Haunts
-There are Murmurings of voices at night? What's going on?
+There are Murmurings of voices at night? What's going on? (WING IT DUMBASS)
+
+#### LEGENDARY SIGHTING!
+Some Locals will say they've seen a legendary in these parts, when pressed they will claim its the mighty rainbow god.
 
 
 
-
-#### Points of Interest
+### Points of Interest
 - [[places.dacapo]]
 - Adventurer's Outpost
 
+#### Da Capo Inn/Bar
+Lodging is 50G for a Party of 4 or more or 20 per person.
 
+Group Lodge, everyone sleeps in the same room
+Single Lodge, Individual rooms.
+
+![[places.dacapo#drink-menu]]
 
 ---
 
 ## Notes
+#### PC's present
+- [x] Bridgette
+- [x] Nox
+- [x] Jak
+- [x] Spinel
+- [ ] Hel
+- [ ] Sandwich
+
