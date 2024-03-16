@@ -1,0 +1,4 @@
+|Species|Status|Player|
+|:-:|:-:|:-:|
+|  |  |  |
+<br/>

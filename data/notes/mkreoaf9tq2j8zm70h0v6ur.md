@@ -1,0 +1,1 @@
+Below is a list of Minor Characters. These are characters who play some role but not as large as others. 

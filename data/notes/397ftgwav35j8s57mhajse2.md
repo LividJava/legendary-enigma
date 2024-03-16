@@ -1,0 +1,2 @@
+Our adventurers fought through the rain. It's harshness being merely an inconvenience to them. [[people.npc.bobert]] stood between them, and [[people.npc.minor.shelia]], holding her captive. The tormented mind of Bobert remains unseen to those around him, but to the Wondrous World, he is corrupt, impure, and foul. Our brave adventurers bested him in battle, only for him to blink out when in dire straits. His current whereabouts unknown. And as the battle faded, So too did the flood.
+

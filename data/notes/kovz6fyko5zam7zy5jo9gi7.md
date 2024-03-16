@@ -1,0 +1,1 @@
+This is a list of players who's characters are no longer actively playing the campaign. While players come and go, they still may have story significance be it in the forefront or in the background. Hence the inclusion of their pages.

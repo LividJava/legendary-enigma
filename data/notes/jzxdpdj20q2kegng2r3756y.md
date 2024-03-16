@@ -1,0 +1,1 @@
+Story Characters or NPCs play an important part in moving a story along. In this section you will find all characters who have great Story significance, or more aptly. Characters who commonly reappear in the main campaign. 
